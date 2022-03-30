@@ -35,4 +35,6 @@ The simulation ends when only one of the species is not extinct. If we get lucky
 * Vakaris Paulavičius
 * Flavio Melinte Citea
 
+Version 1.0
+
 2021 King's College London
